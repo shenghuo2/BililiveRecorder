@@ -1,0 +1,2 @@
+# BililiveRecorder
+provide config
